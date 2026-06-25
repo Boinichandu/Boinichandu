@@ -47,10 +47,10 @@ This repository showcases my learning and hands-on practice in HTML and CSS. It 
 ## Connect With Me
 
 Connect With Me
-*💼 LinkedIn: www.linkedin.com/in/chandu-boini-935155295
-*💻 LeetCode: https://leetcode.com/u/8VnCa2A4Pa/
-*🐙 GitHub: https://github.com/Boinichandu
-*📧 G-Mail: boinichandu833@gmail.com
+* 💼 LinkedIn: www.linkedin.com/in/chandu-boini-935155295
+* 💻 LeetCode: https://leetcode.com/u/8VnCa2A4Pa/
+* 🐙 GitHub: https://github.com/Boinichandu
+* 📧 G-Mail: boinichandu833@gmail.com
 
 ## Current Goals
 
