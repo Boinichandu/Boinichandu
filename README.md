@@ -29,6 +29,10 @@ AI-powered farmer assistance platform that helps farmers identify crop diseases 
 
 ### Portfolio  https://boinichandu.github.io/portfolio/
 
+## JAVASCRIPT
+### TODOLIST     https://boinichandu.github.io/JavaScript-practice/Todolist.html
+### WIKIPEDIA(using serverRequest FETCH)    https://boinichandu.github.io/JavaScript-practice/Wikipedia.html
+
 
 ## Connect With Me
 
