@@ -37,6 +37,7 @@ This repository showcases my JavaScript learning journey and hands-on projects. 
 ### TODOLIST     https://boinichandu.github.io/JavaScript-practice/Todolist.html
 ### WIKIPEDIA    https://boinichandu.github.io/JavaScript-practice/wikipedia.html
 ### CountryFlagsAndPopulation(Starting AlphaMust be capital) https://boinichandu.github.io/JavaScript-practice/CountryFlags.html
+### For More View my Repo 😊
 
 ## HTML--(HyperText Markup Language) AND CSS--(Cascading Style Sheets)
 
@@ -58,4 +59,6 @@ Connect With Me
 * Master Full Stack Development
 * Improve DSA and Problem Solving
 * Build Industry-Level Projects
+
+### Feel free to check out all of my projects. I hope you find them interesting. Thanks for stopping by! 😊
 
