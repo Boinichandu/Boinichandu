@@ -35,7 +35,8 @@ This repository showcases my JavaScript learning journey and hands-on projects. 
 🔗 https://github.com/Boinichandu/JavaScript-practice
 
 ### TODOLIST     https://boinichandu.github.io/JavaScript-practice/Todolist.html
-### WIKIPEDIA(using serverRequest)    https://boinichandu.github.io/JavaScript-practice/wikipedia.html
+### WIKIPEDIA    https://boinichandu.github.io/JavaScript-practice/wikipedia.html
+### CountryFlagsAndPopulation(Starting AlphaMust be capital) https://boinichandu.github.io/JavaScript-practice/CountryFlags.html
 
 ## HTML--(HyperText Markup Language) AND CSS--(Cascading Style Sheets)
 
