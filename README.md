@@ -45,6 +45,8 @@ This repository showcases my JavaScript learning journey and hands-on projects. 
 
 This repository showcases my learning and hands-on practice in HTML and CSS. It covers core concepts including semantic HTML, forms, tables, lists, links, media elements, CSS selectors, box model, positioning, Flexbox, CSS Grid, responsive web design, typography, colors, animations, transitions, and modern web page layouts. The projects demonstrate my ability to build visually appealing, responsive, and user-friendly websites using industry-standard front-end development practices.
 
+### 📋 Enter Your Profile Details (https://github.com/Boinichandu/practice-HTML-CSS/form.html)
+
 
 ## Connect With Me
 
