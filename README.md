@@ -22,7 +22,7 @@
 * Prompt Engineering
 
 ## Projects
-### Library Management System https://github.com/Boinichandu/LibraryManagement-system
+### Library Management System https://library-management-system-iota-nine.vercel.app/create-account.html
 
 I am currently working on a Library Management System project that helps users search, borrow, and manage books efficiently.
 
