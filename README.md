@@ -1,4 +1,15 @@
-# Hi 👋, I'm Chandu Boini
+<h1 align="center">Hi 👋, I'm Chandu Boini</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Next.js+Developer;Always+Learning+New+Things+🚀" />
+</p>
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandu-boini-935155295)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Boinichandu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/8VnCa2A4Pa/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boinichandu833@gmail.com)
 
 ### Full Stack Developer | Java | Spring Boot | React | Next.js
 
@@ -59,13 +70,6 @@ This repository showcases my learning and hands-on practice in HTML and CSS. It 
 * Frontend At infosys springboard (https://boinichandu.github.io/Certificates/frontend_certificate.pdf)
 * SpringBoot At Nxtwave (https://boinichandu.github.io/Certificates/spring_boot.pdf)
 * Mysql At Nxtwave (https://boinichandu.github.io/Certificates/mysql_certificate.pdf)
-## Connect With Me
-
-Connect With Me
-* 💼 LinkedIn: www.linkedin.com/in/chandu-boini-935155295
-* 💻 LeetCode: https://leetcode.com/u/8VnCa2A4Pa/
-* 🐙 GitHub: https://github.com/Boinichandu
-* 📧 G-Mail: boinichandu833@gmail.com
 
 ## Current Goals
 
