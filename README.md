@@ -65,11 +65,21 @@ This repository showcases my learning and hands-on practice in HTML and CSS. It 
 ## SpringBoot
   ⚙️ (https://github.com/Boinichandu/SpringBoot-Practice)
   ###🚀 Currently exploring Spring Boot, REST APIs, Microservices, and Backend Development.
+## 🏆 Certifications
 
-## Certifications
-* Frontend At infosys springboard (https://boinichandu.github.io/Certificates/frontend_certificate.pdf)
-* SpringBoot At Nxtwave (https://boinichandu.github.io/Certificates/spring_boot.pdf)
-* Mysql At Nxtwave (https://boinichandu.github.io/Certificates/mysql_certificate.pdf)
+<p align="left">
+  <a href="https://boinichandu.github.io/Certificates/frontend_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend-Infosys%20Springboard-0078D4?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Certificate"/>
+  </a>
+
+  <a href="https://boinichandu.github.io/Certificates/spring_boot.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Spring_Boot-NxtWave-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Certificate"/>
+  </a>
+
+  <a href="https://boinichandu.github.io/Certificates/mysql_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-NxtWave-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Certificate"/>
+  </a>
+</p>
 
 ## Current Goals
 
