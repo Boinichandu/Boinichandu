@@ -68,16 +68,16 @@ This repository showcases my learning and hands-on practice in HTML and CSS. It 
 ## 🏆 Certifications
 
 <p align="left">
-  <a href="https://boinichandu.github.io/Certificates/frontend_certificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Frontend-Infosys%20Springboard-0078D4?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Certificate"/>
+  <a href="https://boinichandu.github.io/Certificates/frontend_certificate.pdf">
+    <img src="https://skillicons.dev/icons?i=html" height="50" />
   </a>
 
-  <a href="https://boinichandu.github.io/Certificates/spring_boot.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Spring_Boot-NxtWave-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Certificate"/>
+  <a href="https://boinichandu.github.io/Certificates/spring_boot.pdf">
+    <img src="https://skillicons.dev/icons?i=spring" height="50" />
   </a>
 
-  <a href="https://boinichandu.github.io/Certificates/mysql_certificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-NxtWave-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Certificate"/>
+  <a href="https://boinichandu.github.io/Certificates/mysql_certificate.pdf">
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" />
   </a>
 </p>
 
