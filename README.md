@@ -53,6 +53,11 @@ This repository showcases my learning and hands-on practice in HTML and CSS. It 
 ## SpringBoot
   ⚙️ (https://github.com/Boinichandu/SpringBoot-Practice)
   ###🚀 Currently exploring Spring Boot, REST APIs, Microservices, and Backend Development.
+
+## Certifications
+* Frontend At infosys springboard (https://boinichandu.github.io/Certificates/frontend_certificate.pdf)
+* SpringBoot At Nxtwave (https://boinichandu.github.io/Certificates/spring_boot.pdf)
+* Mysql At Nxtwave (https://boinichandu.github.io/Certificates/mysql_certificate.pdf)
 ## Connect With Me
 
 Connect With Me
